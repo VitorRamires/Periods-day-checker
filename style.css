@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+}
+
+.container{
+    width: 600px;
+    height: 500px;
+    margin:0 auto;
+    background:white;
+}
